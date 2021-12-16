@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Huyền à, Hiếu nè:3!',
-    introDesc: `Nếu cuộc sống làm e mệt mỏi từ ngày tới đêm
-    Thì a sẽ mang một chút êm đềm tới ngay
-    Hạ thì mặc mát chút cũng được
-    Đông thì khăn ấm
+    introDesc: `Nếu cuộc sống làm e mệt mỏi từ ngày tới đêm,
+    Thì a sẽ mang một chút êm đềm tới ngay,
+    Hạ thì mặc mát chút cũng được,
+    Đông thì khăn ấm,
     Ngoan mà nghe lời, ko thì ăn đấm^^`,
     btnIntro: 'HiHi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
