@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Huyền à, Hiếu nè:3!',
+    introTitle: 'Babe à, Hiếu nè:3!',
     introDesc: `Nếu cuộc sống làm e mệt mỏi từ ngày tới đêm,
     Thì a sẽ mang một chút êm đềm tới ngay,
     Hạ thì mặc mát chút cũng được,
